@@ -51,10 +51,18 @@
     text-align: inherit;
   }
   .cs-button-solid {
+<<<<<<< HEAD
     z-index: 1;
     position: relative;
     display: inline-block;
     background-color: var(--primary);
+=======
+    border-radius: 12px;
+    z-index: 1;
+    position: relative;
+    display: inline-block;
+    background-color: whitesmoke;
+>>>>>>> 7b9f855d11a944517d2308906f6e6e57fa9c6e31
     width: auto;
     padding: 0 1.875rem;
     text-decoration: none;
@@ -83,6 +91,10 @@
     display: block;
     background-color: #000;
     height: 100%;
+<<<<<<< HEAD
+=======
+    border-radius: 12px;
+>>>>>>> 7b9f855d11a944517d2308906f6e6e57fa9c6e31
     width: 0;
     transition: width 0.3s;
   }
